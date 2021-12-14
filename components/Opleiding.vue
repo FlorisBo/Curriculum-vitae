@@ -1,5 +1,5 @@
 <template>
-  <div id="ervaring">
+  <div id="opleiding">
     <div class="block">
       <div class="main-title">Opleiding</div>
     </div>

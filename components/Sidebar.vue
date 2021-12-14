@@ -6,11 +6,10 @@
     <nav>
       <ul>
         <li><a href="#">Over</a></li>
-        <li><a href="#">Ervaring</a></li>
-        <li><a href="#">Opleiding</a></li>
-        <li><a href="#">Skills</a></li>
-        <li><a href="#">Interesses</a></li>
-        <li><a href="#">Overwinningen</a></li>
+        <li><a href="#ervaring">Ervaring</a></li>
+        <li><a href="#opleiding">Opleiding</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#interesses">Interesses</a></li>
       </ul>
     </nav>
   </div>

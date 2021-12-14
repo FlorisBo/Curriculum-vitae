@@ -1,8 +1,12 @@
-@import "variables";
-@import "sidebar";
-@import "content";
-@import "block";
+@import 'variables';
+@import 'sidebar';
+@import 'content';
+@import 'block';
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
-    background-color: $sidebar-background-color;
+  background-color: $sidebar-background-color;
 }
