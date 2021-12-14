@@ -1,0 +1,8 @@
+@import "variables";
+@import "sidebar";
+@import "content";
+@import "block";
+
+body {
+    background-color: $sidebar-background-color;
+}
