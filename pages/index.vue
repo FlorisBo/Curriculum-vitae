@@ -2,9 +2,9 @@
   <div>
     <b-container fluid style="padding: 0">
       <b-row no-gutters>
-        <b-col cols="col col-xs-12 col-md-2">
-          <div class="d-none d-md-block">
-            <div class="sticky-top">
+        <b-col cols="col col-xs-12 col-md-2 sticky-top">
+          <div class="sticky-top">
+            <div class="d-none d-md-block">
               <Sidebar />
             </div>
           </div>
