@@ -4,6 +4,6 @@
         <Ervaring />
         <Opleiding />
         <Skills />
-        <Interesses />
+        <Hobby />
     </div>
 </template>

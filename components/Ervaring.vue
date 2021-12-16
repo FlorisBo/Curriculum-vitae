@@ -16,8 +16,7 @@
     </div>
 
     <div class="content"><p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam facilis magnam consequatur nulla in alias officia autem et neque accusantium hic sunt illum, cum earum. Quia, asperiores sunt! Minus, iusto.
-      Praesentium nemo temporibus deserunt enim alias ipsum iusto facere! Doloremque officiis autem suscipit tenetur tempore aut, recusandae nihil ducimus iure placeat. Voluptatem dolor commodi neque facilis at laboriosam maiores repellendus.
+      Op school krijgen we ook praktische opdrachten, hierin leren we in een periode, goed samen te werken, en het bedrijfs leven te leren kennen. 
     </p></div>
 
 
@@ -27,12 +26,10 @@
     </div>
 
     <div class="block">
-      <div class="sub-title">Curio</div>
+      <div class="sub-title">Jumbo</div>
     </div>
-
     <div class="content"><p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam facilis magnam consequatur nulla in alias officia autem et neque accusantium hic sunt illum, cum earum. Quia, asperiores sunt! Minus, iusto.
-      Praesentium nemo temporibus deserunt enim alias ipsum iusto facere! Doloremque officiis autem suscipit tenetur tempore aut, recusandae nihil ducimus iure placeat. Voluptatem dolor commodi neque facilis at laboriosam maiores repellendus.
+      Op mijn werk krijg ik vaak te maken met klanten, hierin ben ook klantgericht en vriendelijk en zorg ik ervoor dat de klanten tevreden zijn. Ik werk ook in team verband of soms alleen, deze gaan mij beide goed af.
     </p></div>
 
     <hr>

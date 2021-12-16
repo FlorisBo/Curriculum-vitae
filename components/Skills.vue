@@ -18,28 +18,30 @@
       class="icon alt"
       style="font-size: 50px"
     />
-    <font-awesome-icon
-      :icon="['fab', 'sass']"
-      class="icon alt"
-      style="font-size: 50px"
-    />
-    <font-awesome-icon
-      :icon="['fab', 'vuejs']"
-      class="icon alt"
-      style="font-size: 50px"
-    />
+
     <font-awesome-icon
       :icon="['fab', 'php']"
       class="icon alt"
       style="font-size: 50px"
     />
     <font-awesome-icon
-      :icon="['fab', 'js']"
+      :icon="['fab', 'python']"
       class="icon alt"
       style="font-size: 50px"
     />
+
+    <div class="block">
+      <div class="sub-title pt-4">Frameworks</div>
+    </div>
+
     <font-awesome-icon
-      :icon="['fab', 'linkedin-in']"
+      :icon="['fab', 'laravel']"
+      class="icon alt"
+      style="font-size: 50px"
+    />
+
+      <font-awesome-icon
+      :icon="['fab', 'vuejs']"
       class="icon alt"
       style="font-size: 50px"
     />

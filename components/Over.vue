@@ -4,7 +4,7 @@
         <span class="naam">Floris<span class="oranje">Bogers</span></span> 
         <span class="adres">Nieuwe Heilaarstraat 37 - 4813 AR  BREDA - 06-36493167 - <span class="oranje"><a href="mailto:floris@tonbogers.nl">floris@tonbogers.nl</a></span></span>
     </div>
-    <div class="content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non tempora modi praesentium quae illum sint corrupti ex ea, ullam ratione molestiae possimus consequuntur rem dolorum temporibus aperiam nemo dicta itaque!Non tempora modi praesentium quae illum sint corrupti ex ea, ullam ratione molestiae possimus consequuntur rem dolorum temporibus aperiam nemo dicta itaque!</div>
+    <div class="content">Jong en ambiteus. Leergierig en enthousiast als ik ben vind ik het leuk om steeds weer nieuwe dingen te leren. Ben ik nog niet klaar met Laravel, zit ik alweer klaar om aan de slag te gaan met een andere nieuwe ontwikkel omgeving.  Sociaal en een echte team speler, maar ook zeker zelfstandig. Natuurlijk pas net begonnen als software ontwikkelaar verheug ik me op al het moois dat nog gaat komen.  Wat is mijn volgende uitdaging?</div>
     <div class="socials">
       <a href="https://www.linkedin.com/in/floris-bogers-42ab26224/" target="_blank" class="linkedin">
         <div class="circle">
