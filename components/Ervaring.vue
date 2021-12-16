@@ -7,12 +7,12 @@
 
 
     <div class="block"> 
-      <div class="float-left funktie">Student</div>
+      <div class="float-left funktie">Curio</div>
       <div class="float-right datum">2019 - heden</div>
     </div>
 
     <div class="block">
-      <div class="sub-title">Curio</div>
+      <div class="sub-title">Student</div>
     </div>
 
     <div class="content"><p>
@@ -21,12 +21,12 @@
 
 
     <div class="block"> 
-      <div class="float-left funktie">Schoolproject bla bla</div>
+      <div class="float-left funktie">Jumbo</div>
       <div class="float-right datum">2019 - heden</div>
     </div>
 
     <div class="block">
-      <div class="sub-title">Jumbo</div>
+      <div class="sub-title">Vakkenvuller</div>
     </div>
     <div class="content"><p>
       Op mijn werk krijg ik vaak te maken met klanten, hierin ben ook klantgericht en vriendelijk en zorg ik ervoor dat de klanten tevreden zijn. Ik werk ook in team verband of soms alleen, deze gaan mij beide goed af.
