@@ -31,7 +31,9 @@ export default {
     components: true,
 
     // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-    buildModules: [],
+    buildModules: [
+        '@nuxtjs/google-fonts'
+    ],
 
     // Modules: https://go.nuxtjs.dev/config-modules
     modules: [
@@ -54,9 +56,20 @@ export default {
         ]
     },
 
+    googleFonts: {
+        families: {
+            'Mulish': [400, 700],
+            'Saira+Extra+Condensed': [400, 700]
+        }
+    },
+
     // Axios module configuration: https://go.nuxtjs.dev/config-axios
     axios: {},
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
-    build: {}
+    build: {
+        babel: {
+            compact: true,
+        },
+    },
 }
